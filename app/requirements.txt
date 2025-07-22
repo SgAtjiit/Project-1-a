@@ -1,0 +1,4 @@
+PyMuPDF==1.23.8
+scikit-learn==1.5.0
+nltk==3.8.1
+joblib==1.4.2
